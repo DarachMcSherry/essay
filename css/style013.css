@@ -7,6 +7,8 @@ font-size:100%;
 line-height:1em;
 }
 
+html{ scroll-behavior: smooth;}
+
 body{
   width:80%;
   max-width: 700px;
@@ -44,9 +46,19 @@ text-align: justify;
     h3 {font-size: 3em;
         margin-bottom: 1.5em;
       text-align: center;
-    font-weight: bold;}
+    font-weight: bold;
+    padding-top: 100PX;
+  }
+h4 {font-size: 1em;
+  margin-bottom: 1.5em;
+    text-align: center;
+    font-weight: bold;
+    margin-top: -1.5em
 
+}
         /*---------style links------*/
+
+i{text-decoration: }
         a{
           color: #8F0040
           text-decoration: none;
@@ -184,6 +196,9 @@ background: black url(images/saul_bass.jpg) center no-repeat;
   text-align:justify;
 }
 
+#his-work i{
+  text-decoration: none;
+}
          /*---------footer
          footer {
              text-align: center;
