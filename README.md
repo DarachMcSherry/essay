@@ -1,2 +1,2 @@
 # essay
--[essay-website](https://darachmcsherry.github.io/essay/essay.html)
+-[essay-website](https://darachmcsherry.github.io/essay/index.html)
